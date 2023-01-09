@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning to build my read.me page
+
 <!--
 **LuccaRomanelli/LuccaRomanelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
