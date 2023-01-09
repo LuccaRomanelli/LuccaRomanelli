@@ -1,7 +1,7 @@
 ### Hi there, welcome to my git hub 👋
 
 # 💫 About Me:
-- :brazil: I'm a braziling developer
+- :brazil: I'm a brazilian developer
 - 🔭 I’m currently working as a Back End Dev in In8-Buscamilhas
 - 🌱 I'm doing a postgraduate in FullStack Development in PUC-RIO
 - ⚡ I'm an electrical engineer graduated in CEFET-MG
