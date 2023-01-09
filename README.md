@@ -15,6 +15,8 @@
 
 [![Lucca Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaRomanelli&layout=compact&theme=dark)](https://github.com/LuccaRomanelli/github-readme-stats)
 
+[![Lucca Full Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaRomanelli&theme=dark)](https://github.com/LuccaRomanelli/github-readme-stats)
+
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucca-romanelli/?locale=en_US) 
 [![Gmail](https://img.shields.io/badge/GMAIL-BB001B?logo=gmail&logoColor=white)](mailto:ldpromanelli@gmail.com) 
