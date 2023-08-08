@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 - :brazil: I'm a brazilian developer
-- 🔭 I’m currently working as a Back End Dev in In8-Buscamilhas
+- 🔭 I’m currently working as a Team Lead in Onfly - Onhappy
 - 🌱 I'm doing a postgraduate in FullStack Development in PUC-RIO
 - ⚡ I'm an electrical engineer graduated in CEFET-MG
 - :computer: I've been working as a back-end focus dev but I am qorking to improve front-end skills
