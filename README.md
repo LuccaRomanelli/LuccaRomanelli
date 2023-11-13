@@ -11,6 +11,9 @@
 # 💻 Tech Stack:
 ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![NESTJS](https://img.shields.io/badge/NESTJS-7A0C00?style=for-the-badge&logo=NESTJS&logoColor=red) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![REDIS](https://img.shields.io/badge/REDIS-7A0C00?style=for-the-badge&logo=REDIS&logoColor=red) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 	![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-3C99DC?&style=for-the-badge&logo=css3&logoColor=white) ![GIT](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 
+Learning:
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
 # 📊 GitHub Stats:
 
 [![Lucca DEv Stack](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaRomanelli&layout=compact&theme=dark)](https://github.com/LuccaRomanelli/github-readme-stats)
