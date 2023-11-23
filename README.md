@@ -18,9 +18,9 @@
 
 # 📊 GitHub Stats:
 
-[![Lucca DEv Stack](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaRomanelli&layout=compact&theme=dark)](https://github.com/LuccaRomanelli/github-readme-stats)
+![Lucca DEv Stack](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaRomanelli&layout=compact&theme=dark)
 
-![Lucca's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuccaRomanelli&show_icons=true&theme=dark)
+<!-- ![Lucca's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuccaRomanelli&show_icons=true&theme=dark) -->
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucca-romanelli/?locale=en_US) 
