@@ -18,7 +18,7 @@
 
 # 📊 GitHub Stats:
 
-![Lucca DEv Stack](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaRomanelli&layout=compact&theme=dark)
+![Lucca DEv Stack](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaRomanelli&theme=dark)
 
 <!-- ![Lucca's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuccaRomanelli&show_icons=true&theme=dark) -->
 
