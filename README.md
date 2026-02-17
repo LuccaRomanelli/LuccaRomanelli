@@ -1,48 +1,109 @@
-### Hi there, welcome to my git hub 👋
+# Hi there, I'm Lucca! 👋
 
-# 💫 About Me:
-- :brazil: I'm a brazilian developer
-- 🔭 I’m currently working as a Team Lead in Onfly - Onhappy
-- 🌱 I'm doing a postgraduate in FullStack Development in PUC-RIO
-- ⚡ I'm an electrical engineer graduated in CEFET-MG
-- :computer: I've been working as a back-end focus dev but I am qorking to improve front-end skills
+**Software Engineer | Neovim Enthusiast | Open Source Contributor**
 
+📍 Belo Horizonte - MG - Brasil
 
-# 💻 Tech Stack:
-![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![NESTJS](https://img.shields.io/badge/NESTJS-7A0C00?style=for-the-badge&logo=NESTJS&logoColor=red) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![REDIS](https://img.shields.io/badge/REDIS-7A0C00?style=for-the-badge&logo=REDIS&logoColor=red) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 	![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-3C99DC?&style=for-the-badge&logo=css3&logoColor=white) ![GIT](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)![Vue3](https://img.shields.io/badge/VUE3-%2cbc63.svg?style=for-the-badge&logo=vue.js&logoColor=white)
-![Quasar](https://img.shields.io/badge/quasar-31ccec?style=for-the-badge&logo=quasar)
+---
 
-## Learning:
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+## 💫 About Me
 
+🇧🇷 Brazilian developer with a background in Electrical Engineering (CEFET-MG).
 
-# 📊 GitHub Stats:
+- 🔭 Freelance Software Engineer contributing at **Yopki** (trip planner platform)
+- 💻 Full-stack development with TypeScript/React and Node.js
+- ⌨️ Neovim enthusiast and dev tooling builder
+- 🔌 Author of open source Neovim plugins
+- 🌐 Passionate about clean code, automation, and developer experience
 
-![Lucca DEv Stack](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaRomanelli&theme=dark)
+---
 
-<!-- ![Lucca's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuccaRomanelli&show_icons=true&theme=dark) -->
+## 💫 Sobre Mim
 
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucca-romanelli/?locale=en_US) 
-[![Gmail](https://img.shields.io/badge/GMAIL-BB001B?logo=gmail&logoColor=white)](mailto:ldpromanelli@gmail.com) 
-[![WhatsApp](https://img.shields.io/badge/Whatsapp-4FCE5D?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5531988811112&text=Teste&type=phone_number&app_absent=0) 
+🇧🇷 Desenvolvedor brasileiro com formação em Engenharia Elétrica (CEFET-MG).
 
-<p align="center"> 
+- 🔭 Engenheiro de Software freelancer contribuindo na **Yopki** (plataforma de planejamento de viagens)
+- 💻 Desenvolvimento full-stack com TypeScript/React e Node.js
+- ⌨️ Entusiasta de Neovim e ferramentas de desenvolvimento
+- 🔌 Autor de plugins open source para Neovim
+- 🌐 Apaixonado por código limpo, automação e experiência do desenvolvedor
+
+---
+
+## 🚀 Featured Projects / Projetos Destacados
+
+| Project | Description | Language |
+|---------|-------------|----------|
+| [git-review.nvim](https://github.com/LuccaRomanelli/git-review.nvim) | Neovim plugin for reviewing git diffs file by file | Lua |
+| [autocorrect.nvim](https://github.com/LuccaRomanelli/autocorrect.nvim) | Real-time autocorrection plugin for Neovim | Lua |
+| [base-project](https://github.com/LuccaRomanelli/base-project) | React + Supabase template with Claude Code agents & TDD | TypeScript |
+| [devcontainer-base](https://github.com/LuccaRomanelli/devcontainer-base) | Reusable dev container template | Shell |
+| [dotfiles](https://github.com/LuccaRomanelli/dotfiles) | Personal Neovim/shell configuration | Lua |
+
+---
+
+## 💻 Tech Stack
+
+**Languages:**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**Frontend:**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend:**
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+**Databases:**
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Cloud & DevOps:**
+
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+
+**Tools:**
+
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaRomanelli&theme=dark&layout=compact)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuccaRomanelli&show_icons=true&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LuccaRomanelli&theme=dark)
+
+---
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucca-romanelli/?locale=en_US)
+[![Gmail](https://img.shields.io/badge/Gmail-BB001B?logo=gmail&logoColor=white)](mailto:ldpromanelli@gmail.com)
+
+---
+
+<p align="center">
   Visitors<br>
   <img src="https://profile-counter.glitch.me/LuccaRomanelli/count.svg" />
 </p>
-
-<!--
-**LuccaRomanelli/LuccaRomanelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
