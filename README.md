@@ -88,7 +88,7 @@
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LuccaRomanelli&theme=dark&layout=compact&exclude_repo=mvp1-backend)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LuccaRomanelli&theme=dark&layout=compact&size_weight=0.5&count_weight=0.5)
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=LuccaRomanelli&show_icons=true&theme=dark)
 
