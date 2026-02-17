@@ -88,9 +88,9 @@
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaRomanelli&theme=dark&layout=compact)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LuccaRomanelli&theme=dark&layout=compact)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuccaRomanelli&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=LuccaRomanelli&show_icons=true&theme=dark)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LuccaRomanelli&theme=dark)
 
@@ -104,6 +104,5 @@
 ---
 
 <p align="center">
-  Visitors<br>
-  <img src="https://profile-counter.glitch.me/LuccaRomanelli/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=LuccaRomanelli&color=blue&style=flat-square&label=Profile+Views" />
 </p>
